@@ -1,0 +1,14 @@
+﻿  ALG5.cpp
+D:\VadyaFiles\Проги\RandomElemtofPROCENT\RandomElemtofPROCENT\ALG5.cpp(45,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VadyaFiles\Проги\RandomElemtofPROCENT\RandomElemtofPROCENT\ALG5.cpp(51,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VadyaFiles\Проги\RandomElemtofPROCENT\RandomElemtofPROCENT\ALG5.cpp(59,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VadyaFiles\Проги\RandomElemtofPROCENT\RandomElemtofPROCENT\ALG5.cpp(68,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\VadyaFiles\Проги\RandomElemtofPROCENT\RandomElemtofPROCENT\ALG5.cpp(72,16): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\VadyaFiles\Проги\RandomElemtofPROCENT\RandomElemtofPROCENT\ALG5.cpp(105,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VadyaFiles\Проги\RandomElemtofPROCENT\RandomElemtofPROCENT\ALG5.cpp(109,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VadyaFiles\Проги\RandomElemtofPROCENT\RandomElemtofPROCENT\ALG5.cpp(114,20): warning C4018: <: несоответствие типов со знаком и без знака
+  RandomElemtofPROCENT.vcxproj -> D:\VadyaFiles\Проги\RandomElemtofPROCENT\Debug\RandomElemtofPROCENT.exe
